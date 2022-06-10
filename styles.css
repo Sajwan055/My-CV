@@ -1,9 +1,19 @@
-.box1{
-    display:inline-block;
-    width:30%;
+
+body{
+    background-color:cyan;
 }
 
-.box2{
-    display:inline-block;
-    width:30%;
+hr{
+    border-style:dotted none none none ;
+    width:5%;
+    border-color:grey;
+    border-width:5px;
+}
+
+h1{
+    color:#363062;
+}
+
+h3{
+    color:#143b37;
 }
